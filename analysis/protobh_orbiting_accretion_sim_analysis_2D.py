@@ -254,7 +254,7 @@ def print_summary(params, prim_list, prim_files, t_per,
               f"  t = {disk_t_per:.4e} T_orb,"
               f"  r = {disk_r:.4e} length_unit")
     else:
-        print( "  No disk detected everywhere)")
+        print( "  No disk detected everywhere")
     print("="*60 + "\n")
 
 
