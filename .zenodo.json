@@ -1,0 +1,7 @@
+{
+  "title": "protoBH-hydro",
+  "description": "Athena++ problem generators and analysis tools for hydrodynamic simulations of accretion-disk formation around orbiting stellar black holes in gaseous star clusters. MSCA grant No. 101149270 - ProtoBH.",
+  "creators": [{"name": "Roupas, Zacharias", "orcid": "0000-0002-3249-0126"}],
+  "upload_type": "software",
+  "license": "BSD-3-Clause"
+}
