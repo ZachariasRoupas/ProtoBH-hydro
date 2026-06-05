@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite both the software and the accompanying paper."
+title: "protoBH-hydro"
+authors:
+  - family-names: Roupas
+    given-names: Zacharias
+    orcid: "https://orcid.org/0000-0002-3249-0126"
+doi: 10.5281/zenodo.XXXXXXX
+license: BSD-3-Clause
