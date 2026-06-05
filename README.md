@@ -9,7 +9,7 @@ Part of the project MSCA grant agreement No. 101149270 — ProtoBH.
 - `analysis/` Python post-processing scripts
 
 ## Requirements
-Athena++ v21.0 (Stone et al. 2020, ApJS 249, 4), HDF5, Python with numpy/matplotlib/h5py.
+Athena++ v21.0 (Stone et al. 2020, ApJS 249, 4), HDF5, Python with numpy/matplotlib/h5py, scipy.
 
 ## Cite
 Code:  https://doi.org/10.5281/zenodo.XXXXXXX
