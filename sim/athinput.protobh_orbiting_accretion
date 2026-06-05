@@ -1,7 +1,7 @@
 <comment>
 problem    = BH accretion, simple harmonic elliptical orbit, 3D spherical
 configure  = --prob=protobh_orbiting_accretion --coord=spherical_polar -hdf5
-project    = MSCA grant agreement No. 101149270 — ProtoBH funded by the E.U.
+project    = MSCA grant agreement No. 101149270 — ProtoBH. Funded by the E.U.
 author     = Zacharias Roupas
 cite_paper = Roupas, Z., to appear (2026)
 cite_code  = https://doi.org/10.5281/zenodo.20557844
